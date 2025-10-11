@@ -1,3 +1,4 @@
+
 # Cookify
 
 ![Cookify Logo](public/favicon.svg)
